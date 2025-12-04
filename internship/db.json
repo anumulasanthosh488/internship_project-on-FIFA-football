@@ -1,0 +1,94 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "age": 37,
+      "nationality": "Argentina",
+      "club": "Inter Miami",
+      "position": "Forward",
+      "overall": 93,
+      "goals": 32,
+      "assists": 20
+    },
+    {
+      "id": 2,
+      "name": "Kylian Mbappé",
+      "age": 26,
+      "nationality": "France",
+      "club": "Real Madrid",
+      "position": "Forward",
+      "overall": 92,
+      "goals": 40,
+      "assists": 18
+    },
+    {
+      "id": 3,
+      "name": "Erling Haaland",
+      "age": 25,
+      "nationality": "Norway",
+      "club": "Manchester City",
+      "position": "Striker",
+      "overall": 91,
+      "goals": 45,
+      "assists": 8
+    }
+  ],
+
+  "teams": [
+    {
+      "id": 1,
+      "name": "Manchester City",
+      "league": "Premier League",
+      "country": "England",
+      "manager": "Pep Guardiola",
+      "rating": 92
+    },
+    {
+      "id": 2,
+      "name": "Real Madrid",
+      "league": "La Liga",
+      "country": "Spain",
+      "manager": "Carlo Ancelotti",
+      "rating": 91
+    },
+    {
+      "id": 3,
+      "name": "Inter Miami",
+      "league": "MLS",
+      "country": "USA",
+      "manager": "Gerardo Martino",
+      "rating": 85
+    }
+  ],
+
+  "matches": [
+    {
+      "id": 1,
+      "home_team": "Manchester City",
+      "away_team": "Real Madrid",
+      "home_score": 2,
+      "away_score": 2,
+      "date": "2025-11-26",
+      "stadium": "Etihad Stadium"
+    },
+    {
+      "id": 2,
+      "home_team": "Inter Miami",
+      "away_team": "Manchester City",
+      "home_score": 1,
+      "away_score": 3,
+      "date": "2025-11-20",
+      "stadium": "DRV PNK Stadium"
+    },
+    {
+      "id": 3,
+      "home_team": "Real Madrid",
+      "away_team": "Inter Miami",
+      "home_score": 4,
+      "away_score": 1,
+      "date": "2025-11-15",
+      "stadium": "Santiago Bernabéu"
+    }
+  ]
+}
